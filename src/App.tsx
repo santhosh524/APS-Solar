@@ -116,7 +116,7 @@ function Home() {
     <>
       <section className="hero">
         <div className="wrap heroText">
-          <small>SMARTER ENERGY. BRIGHTER FUTURE.</small>
+          <small>SMARTER ENERGY. BETTER FUTURE.</small>
           <h1>
             Make the switch to solar.
             <br />
@@ -441,7 +441,6 @@ function CalculatorPage() {
     </>
   );
 }
-
 
 export default function App() {
   return <Layout />;
